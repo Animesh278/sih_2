@@ -49,7 +49,7 @@ function App() {
               </div>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a 
-                  href="passenger-p5h7y5t4e-animeshs-projects-9f3c0443.vercel.app"
+                  href="https://passenger-p5h7y5t4e-animeshs-projects-9f3c0443.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center px-8 py-4 bg-blue-600 text-white font-semibold rounded-xl hover:bg-blue-700 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 group"
@@ -231,7 +231,7 @@ function App() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
-              href="passenger-p5h7y5t4e-animeshs-projects-9f3c0443.vercel.app"
+              href="https://passenger-p5h7y5t4e-animeshs-projects-9f3c0443.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 bg-white text-blue-600 font-semibold rounded-xl hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 group"
